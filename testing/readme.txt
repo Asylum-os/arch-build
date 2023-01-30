@@ -1,1 +1,1 @@
- Testing builds of AsylumOS Gentoo backend - potentially unstable, not ready for real use
+ Testing builds of AsylumOS Arch backend - potentially unstable, not ready for real use
